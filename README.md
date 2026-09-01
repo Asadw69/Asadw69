@@ -3,26 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.lettzo.com"><img src="https://img.shields.io/badge/Lettzo-0A0D14?style=for-the-badge&logo=vercel&logoColor=D6A03C" alt="Lettzo"></a>
+  <a href="https://www.lettzo.com"><img src="lettzo-logo.png" height="28" alt="Lettzo">&nbsp;&nbsp;</a>
   <a href="https://asadsiddiqui.framer.website/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:asadsiddiqui7865@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:asad@lettzo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/asad-siddiqui-6559a72a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/AsadSiddiiqui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
 
-<img src="lettzo-logo.png" align="left" height="60" alt="Lettzo" hspace="18">
-
 I'm building **[Lettzo](https://www.lettzo.com)**, an app for finding what's happening near you and actually making plans with people instead of just talking about it. I do all of it myself: design, frontend, backend, deploys.
 
-<br clear="left">
+I build things end to end. Not only as a developer — I do video editing, photography, graphic design, art, go-to-market, and strategic planning. Being able to build the thing *and* name it, shoot it, position it, and sell it is the part I actually enjoy.
 
-Code isn't the only thing I do. I edit video, shoot photos, design, and I'm good at working out why something spreads. I ran football pages that did 50M+ views by paying attention to which formats kept winning and reusing them instead of starting from scratch every time.
-
-Before this I played football at state level, competed in PUBG Mobile esports and co-founded a team, and spent a few years helping run my family's hotel in Uttarakhand.
-
-Football, games, startups. In that order most days.
+Outside work: football, games, and startups.
 
 <br>
 
@@ -81,10 +75,7 @@ Football, games, startups. In that order most days.
 - **50M+ organic views** across football content pages, one grown to 38K followers in a few months
 - Top **900 of 82,000+** in the Amazon ML Challenge 2025
 - Research paper on AI glaucoma detection from retinal scans, currently under peer review
-- PUBG Mobile: **Asia Season 19 top 500**, India top 50. Co-founded COR3 Esports and ran grassroots tournaments
-- State-level footballer
-- Picked as a teaching assistant from 3,000+ students
-- Helped double the revenue at my family's hotel
+- Drove **$15k+** in revenue at my family's hotel through go-to-market work, roughly doubling it
 
 <br>
 
