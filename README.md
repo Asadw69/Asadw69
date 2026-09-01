@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.lettzo.com"><img src="https://img.shields.io/badge/Lettzo-0A0D14?style=for-the-badge&logo=vercel&logoColor=D6A03C" alt="Lettzo"></a>
+  <a href="https://asadsiddiqui.framer.website/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:asadsiddiqui7865@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/asad-siddiqui-6559a72a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/AsadSiddiiqui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -11,15 +12,17 @@
 
 ---
 
-<img src="lettzo-logo.png" align="left" height="64" alt="Lettzo" hspace="18">
+<img src="lettzo-logo.png" align="left" height="60" alt="Lettzo" hspace="18">
 
-**[Lettzo](https://www.lettzo.com)** — a location-based social app for discovering events and planning activities with people nearby. React + TypeScript on the front, Node/Express and PostgreSQL behind it, real-time updates over WebSockets, Mapbox for proximity search. Schema, API, UI, deployment: all mine.
+I'm building **[Lettzo](https://www.lettzo.com)**, an app for finding what's happening near you and actually making plans with people instead of just talking about it. I do all of it myself: design, frontend, backend, deploys.
 
 <br clear="left">
 
-I build things end to end. Not only as a developer — I do video editing, photography, graphic design, art, go-to-market, and strategic planning. Being able to build the thing *and* name it, shoot it, position it, and sell it is the part I actually enjoy.
+Code isn't the only thing I do. I edit video, shoot photos, design, and I'm good at working out why something spreads. I ran football pages that did 50M+ views by paying attention to which formats kept winning and reusing them instead of starting from scratch every time.
 
-Outside work: football, games, and startups.
+Before this I played football at state level, competed in PUBG Mobile esports and co-founded a team, and spent a few years helping run my family's hotel in Uttarakhand.
+
+Football, games, startups. In that order most days.
 
 <br>
 
@@ -71,32 +74,21 @@ Outside work: football, games, and startups.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<p><sub><b>CS fundamentals</b> &nbsp;·&nbsp; Data Structures &amp; Algorithms &nbsp;·&nbsp; DBMS &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; OOP</sub></p>
-
 <br>
 
-### Certifications
+### Things I've done
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white">
-</p>
-
-- OCI 2025 Certified **Generative AI Professional** — Oracle
-- OCI 2025 Certified **AI Foundations** — Oracle
-- Google Cloud skill badges — Prompt Design in Vertex AI, GenAI Apps with Gemini &amp; Streamlit, Multimodal RAG
-- ReactJS — Infosys Springboard
-
-### A few numbers
-
-- Top **900 of 82,000+** — Amazon ML Challenge 2025
-- **400+** DSA problems solved
-- Led 2 project-based learning teams and ran technical workshops
+- **50M+ organic views** across football content pages, one grown to 38K followers in a few months
+- Top **900 of 82,000+** in the Amazon ML Challenge 2025
+- Research paper on AI glaucoma detection from retinal scans, currently under peer review
+- PUBG Mobile: **Asia Season 19 top 500**, India top 50. Co-founded COR3 Esports and ran grassroots tournaments
+- State-level footballer
+- Picked as a teaching assistant from 3,000+ students
+- Helped double the revenue at my family's hotel
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asadw69&show_icons=true&hide_border=true&theme=transparent" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadw69&layout=compact&hide_border=true&theme=transparent" height="150">
 </p>
